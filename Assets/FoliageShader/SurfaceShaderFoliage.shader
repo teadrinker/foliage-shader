@@ -48,6 +48,10 @@
                 sampler2D _MainTex;
 
                 half4 LightingMyFoliage(SurfaceOutput s, half3 lightDir, half atten) {
+
+                    // info at https://github.com/teadrinker/foliage-shader
+                    // Martin Eklund 2021
+
                     half NdotL = dot (s.Normal, lightDir);
                     NdotL = clamp(NdotL, -1.0, 1.0); // needed to avoid salt artifacts 
                     half diff = NdotL >= 0 ? lerp(_Lambert90deg,           1., NdotL) : lerp(_Lambert90deg, _Lambert180deg, -NdotL);
