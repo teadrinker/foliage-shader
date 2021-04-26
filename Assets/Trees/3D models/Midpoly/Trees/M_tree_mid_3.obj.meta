@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 13bbaa3dc2aa9084da995f45e65fa229
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: M_TREE_MID_3_BARK
+    100004: M_TREE_MID_3_BARK_1
+    100006: M_TREE_MID_3_BRANCHES_1
+    100008: M_TREE_MID_3_BRANCHES_2
+    100010: M_TREE_MID_3_NEEDLES
+    400000: //RootNode
+    400002: M_TREE_MID_3_BARK
+    400004: M_TREE_MID_3_BARK_1
+    400006: M_TREE_MID_3_BRANCHES_1
+    400008: M_TREE_MID_3_BRANCHES_2
+    400010: M_TREE_MID_3_NEEDLES
+    2100000: M_TREE_MID_3_BARKMat
+    2100002: M_TREE_MID_3_BARK_1Mat
+    2100004: M_TREE_MID_3_BRANCHES_1Mat
+    2100006: M_TREE_MID_3_BRANCHES_2Mat
+    2100008: M_TREE_MID_3_NEEDLESMat
+    2300000: M_TREE_MID_3_BARK
+    2300002: M_TREE_MID_3_BARK_1
+    2300004: M_TREE_MID_3_BRANCHES_1
+    2300006: M_TREE_MID_3_BRANCHES_2
+    2300008: M_TREE_MID_3_NEEDLES
+    3300000: M_TREE_MID_3_BARK
+    3300002: M_TREE_MID_3_BARK_1
+    3300004: M_TREE_MID_3_BRANCHES_1
+    3300006: M_TREE_MID_3_BRANCHES_2
+    3300008: M_TREE_MID_3_NEEDLES
+    4300000: M_TREE_MID_3_BARK
+    4300002: M_TREE_MID_3_BARK_1
+    4300004: M_TREE_MID_3_BRANCHES_1
+    4300006: M_TREE_MID_3_BRANCHES_2
+    4300008: M_TREE_MID_3_NEEDLES
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
